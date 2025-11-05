@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VanChrisx
-- 👀 I’m interested in Fullstack JavaScript/TypeScript/QA testing/React.js/Java/Python/Django/Spring Boot
-- 🌱 I’m currently learning Django & HTMX
+- 👀 I’m interested in Frontend JavaScript/TypeScript/React.js/Next.js
 - 💞️ I’m looking to learn more about the world of programming
 - 📫 How to reach me christianvannoppen@gmail.com
 <!---
