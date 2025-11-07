@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @VanChrisx
-- 👀 I’m interested in Frontend JavaScript/TypeScript/React.js/Next.js
-- 💞️ I’m looking to learn more about the world of programming
-- 📫 How to reach me christianvannoppen@gmail.com
-- My work Github https://github.com/christianvnOppizi
-<!---
-VanChrisx/VanChrisx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Christian Daniel Van Noppen
+
+🎯 **Front-End Developer** at [Oppizi](https://www.oppizi.com)  
+💡 Passionate about building clean, accessible, and high-performance user interfaces.
+
+---
+
+### 👀 Interests
+- Front-End Development: JavaScript (ES6+), TypeScript, React.js, Next.js, Vite  
+- UX/UI Design and responsive interfaces  
+- Learning about scalability, system design, and web performance optimization  
+
+---
+
+### 💼 Work GitHub
+🔗 [github.com/christianvnOppizi](https://github.com/christianvnOppizi)
+
+---
+
+### 📫 Contact
+📧 christianvannoppen@gmail.com  
+📍 Buenos Aires, Argentina
